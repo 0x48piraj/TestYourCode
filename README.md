@@ -18,5 +18,5 @@ As stated in the **IIT Delhi's CSE Sophomore** named [Shashwat Shivam](http://ww
 * Fixed the improper-rendering of `javascript` output on the `<iframe>`
 * Added `frame-border` using `style` tag in `<iframe>` and `TextArea`, to make it look good !
 * Added an **About Page** by using `myModal`
-* Rendered `javascript` Warning Message
+* Rendered `javascript` **Warning Message** in a good fashion
 * Fixed the `TextArea` Padding.
