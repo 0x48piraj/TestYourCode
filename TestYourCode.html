@@ -1,0 +1,79 @@
+
+<!doctype html>
+<html>
+<meta name="description" content="A website where you can write the different components(HTML, CSS and JavaScript) and view live the result of the changes on the same page." />
+<meta name="keywords" content="web design, review, HTML, CSS, IIT, tester, Javascript, editor" />
+<meta name="author" content="0x48piraj" />
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+    <title>TestYourCodeLive</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="styles/mystyle.css">
+    <script type = "text/javascript" src = "../../ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+</head>
+
+<body>
+<div id="wrapper">
+    <div id="topbar">
+      <div id="title">
+        TestYourCodeLive
+      </div>
+      <ul id="toggles">
+        <li class="toggle selected" id="html">HTML</li>
+        <li class="toggle" id="css">CSS</li>
+        <li class="toggle" id="jss">Javascript</li>
+        <li class="toggle selected" style="border-right:0" id="res">Result</li>
+      </ul>
+      <button id="runbutton">Run</button>
+	  <button id="aboutbtn">Creators</button>
+    </div>
+    <div class="clear"></div>
+    <div class="codecontainer" id="htmlc">
+      <div class="text1">HTML</div>
+      <textarea style="border: 3px solid #EEE;" id="htmlcode">Hello</textarea>
+    </div>
+    <div class="codecontainer" id="cssc">
+      <div class="text1">CSS</div>
+      <textarea style="border: 3px solid #EEE;" id="csscode"></textarea>
+    </div>
+    <div class="codecontainer" id="jssc">
+      <div class="text1">JS</div>
+      <font face = "Comic sans MS" size ="1"><textarea style="border: 3px solid #EEE;" id="jsscode">Removed Due to Security&#13;&#10;Reasons</textarea></font>
+    </div>
+    <div class="codecontainer" id="resc">
+      <div class="text1">Result</div>
+      <iframe style="border: 3px solid #EEE;" id="frame"></iframe>
+    </div>
+</div>
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">&times;</span>
+      <h2>About</h2>
+    </div>
+    <div class="modal-body">
+	  <h2>What is this ?</h2>
+	  <div><p style="font-family: 'Gruppo';font-size: 22px;">It's a website where you can write the different components(HTML, CSS and JavaScript) and view live the result of the changes on the same page. <strong><a target="_blank" href="https://github.com/0x48piraj/TestYourCode">Read More</a></strong></p></div>
+	  <br><h2>The Coders :</h2>
+      <div><p style="font-family: 'Gruppo';font-size: 20px;"><strong><a target="_blank" href="http://www.cse.iitd.ac.in/~cs1160328/">Shashwat Shivam</a> - Developed this Site!</strong></p></div>
+	  <div><p style="font-family: 'Gruppo';font-size: 20px;"><strong><a target="_blank" href="https://www.linkedin.com/in/0x48piraj/">Piyush Raj</a>- Beautified, Tweaked & Fixed Bugs </strong><i>(A just-turned 17 yr old punk !)</i></p></div>
+      <div><p style="font-family: 'Courier New', Courier, monospace;">Check out the <a target="_blank" href="https://github.com/0x48piraj/TestYourCode">Repository!</a></p></div>
+    </div>
+    <div class="modal-footer">
+      <h2>The Code Resides on <a target="_blank" href="https://github.com/0x48piraj/TestYourCode">Github</a></h2>
+    </div>
+  </div>
+
+</div>
+
+<script type="text/javascript" src="scripts/scripts.js"></script>
+</body>
+
+</html>
