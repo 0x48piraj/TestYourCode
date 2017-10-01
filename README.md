@@ -22,8 +22,8 @@ As stated in the **IIT Delhi's CSE Sophomore** named [Shashwat Shivam](http://ww
 * Fixed the `TextArea` Padding.
 
 ---
-Project is LIVE : [TestYourCode](http://shashwat.site11.com/TestYourCodeLive/TestYourCode.html)
+Project is **LIVE** : **[TestYourCode](http://shashwat.site11.com/TestYourCodeLive/TestYourCode.html)**
 
-Ref : http://www.cse.iitd.ac.in/~cs1160328/
+**Ref :** http://www.cse.iitd.ac.in/~cs1160328/
 
 ---
