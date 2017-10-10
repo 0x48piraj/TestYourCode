@@ -3,7 +3,7 @@
 ![alt text](https://www.webdevelopersnotes.com/wp-content/uploads/advantages-and-disadvantages-of-wysiwyg-html-editors.png)
 ## What is TestYourCode?
 
-As stated in the **IIT Delhi's CSE Sophomore** named [Shashwat Shivam](http://www.cse.iitd.ac.in/~cs1160328/) :
+As stated in the **IIT Delhi's CSE Sophomore's Profile** named [Shashwat Shivam](http://www.cse.iitd.ac.in/~cs1160328/) :
 > A website where you can write the different components(HTML, CSS and JavaScript) and view live the result of the changes on the same page.
 ---
 
