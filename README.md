@@ -15,6 +15,8 @@ As stated in the **IIT Delhi's CSE Sophomore's Profile** named [Shashwat Shivam]
 ---
 
 
+# Contribution
+
 **Fixed Bugs / Enhancements / `beautify()` :**
 
 * Fixed the improper-rendering of `javascript` output on the `<iframe>`
