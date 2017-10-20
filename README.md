@@ -29,3 +29,7 @@ Project is **LIVE** : **[TestYourCode](http://shashwat.site11.com/TestYourCodeLi
 **Ref :** http://www.cse.iitd.ac.in/~cs1160328/
 
 ---
+
+# License
+
+**[MIT](https://opensource.org/licenses/MIT)**
