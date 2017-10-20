@@ -35,3 +35,6 @@ Project is **LIVE** : **[TestYourCode](http://shashwat.site11.com/TestYourCodeLi
 # License
 
 **[MIT](https://opensource.org/licenses/MIT)**
+
+# Copyright
+**Copyright © 2017. [Piyush Raj](https://github.com/0x48piraj).**
