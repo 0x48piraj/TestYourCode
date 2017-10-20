@@ -26,14 +26,13 @@ As stated in the **IIT Delhi's CSE Sophomore's Profile** named [Shashwat Shivam]
 * Fixed the `TextArea` Padding.
 
 ---
-Project is **LIVE** : **[TestYourCode](http://shashwat.site11.com/TestYourCodeLive/TestYourCode.html)**
 
+Project is **LIVE** : **[TestYourCode](http://shashwat.site11.com/TestYourCodeLive/TestYourCode.html)**
 **Ref :** http://www.cse.iitd.ac.in/~cs1160328/
 
 ---
 
 # License
-
 **[MIT](https://opensource.org/licenses/MIT)**
 
 # Copyright
