@@ -32,7 +32,7 @@ As stated in the **IIT Delhi's CSE Sophomore's Profile** named [Shashwat Shivam]
 
 Project is **LIVE** : **[TestYourCode](http://shashwat.site11.com/TestYourCodeLive/TestYourCode.html)**
 
-Local Copy : [TestYourCode](https://0x48piraj.github.io/TestYourCode/)
+Using **Github Pages** : [TestYourCode](https://0x48piraj.github.io/TestYourCode/)
 
 **Ref :** http://www.cse.iitd.ac.in/~cs1160328/
 
